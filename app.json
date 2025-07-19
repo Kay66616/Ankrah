@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "name": "unite-app",
+    "slug": "unite-app"
+  }
+}
